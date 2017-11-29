@@ -111,6 +111,7 @@ rawfile,shock/damage_mp.shock
 sound,promod,,all_mp
 sound,general,,all_mp
 sound,music,,all_mp
+sound,unreal,,all_mp
 
 stringtable,promod/customStatsTable.csv
 stringtable,promod/destructible.csv
