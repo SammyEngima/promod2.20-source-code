@@ -1,4 +1,5 @@
-# promod4-promod2.20-source-code
-cod promod 2.20 source code
+# PromodLive 2.20 - Source Code
+![www.eQGamers.com](https://www.eqgamers.com/uploads/monthly_2017_10/awda.png.cd07ea46917dc22bf47740af93a73a0a.png)
 
-Original made by Ingram @Codpromod
+
+> Credits: originaly made by Ingram @Codpromod
